@@ -7,4 +7,7 @@ variable "application_name" {
 variable "environment_name" {
   type = string
 }
+variable "base_address_space" {
+  type = string
+}
 
